@@ -2,4 +2,4 @@
 
 Hi, everybody.
 
-I'm new and I'm here to learn and improve. Let's go master it!
+I'm new and I'm here to learn coding and improve myself. Let's go master it!
